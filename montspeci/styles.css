@@ -1,5 +1,5 @@
 p {
-    font-family: montserrat,sans-serif;
+    font-family: "Montserrat",sans-serif;
     font-weight: 400; 
     font-style: normal;
     font-size: 12px;
@@ -10,6 +10,7 @@ h1  {
     font-weight: 700;
     font-style: normal;
     font-size: 72px;
+    line-spacing: 4px;
     color: #000000;
     }
 
