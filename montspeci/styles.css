@@ -1,4 +1,4 @@
-#h1 {
+h1 {
     text-align: center;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -9,7 +9,7 @@
     font-weight: 900;
 }
 
-#--text02  {
+.one  {
     text-align: center;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -20,7 +20,7 @@
     font-weight: 900;
 }
 
-#--text03  {
+.two  {
     text-align: right;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -31,7 +31,7 @@
     font-weight: 700;
 }
 
-#--text04  {
+.three  {
     text-align: right;
     text-transform: lowercase;
     color: rgb(23, 23, 23);
@@ -43,7 +43,7 @@
     font-weight: 400;
 }
 
-#--text05   {
+.four   {
     text-align: left;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
