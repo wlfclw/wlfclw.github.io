@@ -1,4 +1,4 @@
-#text01 {
+#--text01 {
     text-align: center;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -9,7 +9,7 @@
     font-weight: 900;
 }
 
-#text02  {
+#--text02  {
     text-align: center;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -20,7 +20,7 @@
     font-weight: 900;
 }
 
-#text03  {
+#--text03  {
     text-align: right;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
@@ -31,7 +31,7 @@
     font-weight: 700;
 }
 
-#text04  {
+#--text04  {
     text-align: right;
     text-transform: lowercase;
     color: rgb(23, 23, 23);
@@ -43,7 +43,7 @@
     font-weight: 400;
 }
 
-#text05   {
+#--text05   {
     text-align: left;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
