@@ -13,11 +13,11 @@ h1 {
     text-align: right;
     color: rgb(23, 23, 23);
     font-family: Montserrat, "sans-serif";
-    letter-spacing: -0.3rem;
-    width: 100%;
-    font-size: 7em;
-    line-height: 0.75;
-    font-weight: 900;
+    letter-spacing: 0.125rem;
+    width: calc(100% + 0.125rem);
+    font-size: 1em;
+    line-height: 1.75;
+    font-weight: 300;
 }
 
 .two  {
@@ -54,23 +54,77 @@ h1 {
     font-weight: 100;
 }
 
-.five
+.five    {
+    text-align: center;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: -0.025rem;
+    width: 100%;
+    font-size: 1.25em;
+    line-height: 1;
+    font-weight: 500;
+}
 
-.six
+.six      {
+    text-align: left;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: 0.35rem;
+    width: calc(100% + 0.35rem);
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-weight: 200;
+}
 
-.seven
+.seven    {
+    text-align: left;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: 0.1rem;
+    width: calc(100% + 0.1rem);
+    font-size: 1.875em;
+    line-height: 1.25;
+    font-weight: 900;
+}
 
-.eight
+.eight {
+    text-align: left;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: 0.1rem;
+    width: calc(100% + 0.1rem);
+    font-size: 1.875em;
+    line-height: 1;
+    font-weight: 900;
+}
 
-.nine
+.nine {
+    text-align: left;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: 0.1rem;
+    width: calc(100% + 0.1rem);
+    font-size: 1.875em;
+    line-height: 0.75;
+    font-weight: 900;
+}
 
-.ten
+.ten {
+    text-align: left;
+    color: rgb(23, 23, 23);
+    font-family: Montserrat, "sans-serif";
+    letter-spacing: 0.1rem;
+    width: calc(100% + 0.1rem);
+    font-size: 1.875em;
+    line-height: 0.75;
+    font-weight: 900;
+}
 
 
-.two-columns    {    
-    float: left;
-    margin: 0 1.5%;
-    width: 45%;
+.twocolumns    {    
+    float: center;
+    margin: 0;
+    width: 20%;
                 }
 
 
